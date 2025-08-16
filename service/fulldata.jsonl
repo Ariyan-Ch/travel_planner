@@ -1,0 +1,104 @@
+{"prompt": "I want to go from Islamabad to Lahore!", "completion": "{\"start\": \"Islamabad\", \"end\": \"Lahore\", \"stops\": []}"}
+{"prompt": "I want to drive from Berkeley CA to Florida stopping at Yosemite mountains.", "completion": "{\"start\": \"Berkeley CA\", \"end\": \"Florida\", \"stops\": [\"Yosemite mountains\"]}"}
+{"prompt": "Can you get me an itinerary for Okara to Pakpattan? I will make a stop at Sahiwal as well.", "completion": "{\"start\": \"Okara\", \"end\": \"Pakpattan\", \"stops\": [\"Sahiwal\"]}"}
+{"prompt": "I want to go from Lahore to Islamabad! Let's stop in Okara and Sahiwal along the way.", "completion": "{\"start\": \"Lahore\", \"end\": \"Islamabad\", \"stops\": [\"Okara\", \"Sahiwal\"]}"}
+{"prompt": "I want to fly from Berkeley CA to Florida.", "completion": "{\"start\": \"Berkeley CA\", \"end\": \"Florida\", \"stops\": []}"}
+{"prompt": "Can you get me an itinerary travelling to Pakpattan? I will start in Okara. No stops in the middle.", "completion": "{\"start\": \"Okara\", \"end\": \"Pakpattan\", \"stops\": []}"}
+{"prompt": "I need to travel from New York to Boston.", "completion": "{\"start\": \"New York\", \"end\": \"Boston\", \"stops\": []}"}
+{"prompt": "Plan a trip from London to Paris for me.", "completion": "{\"start\": \"London\", \"end\": \"Paris\", \"stops\": []}"}
+{"prompt": "I'm heading from Tokyo to Osaka.", "completion": "{\"start\": \"Tokyo\", \"end\": \"Osaka\", \"stops\": []}"}
+{"prompt": "Drive me from San Francisco to Los Angeles with a stop at Monterey.", "completion": "{\"start\": \"San Francisco\", \"end\": \"Los Angeles\", \"stops\": [\"Monterey\"]}"}
+{"prompt": "Get me from Rome to Venice, stopping in Florence.", "completion": "{\"start\": \"Rome\", \"end\": \"Venice\", \"stops\": [\"Florence\"]}"}
+{"prompt": "I'm traveling from Sydney to Melbourne via Canberra.", "completion": "{\"start\": \"Sydney\", \"end\": \"Melbourne\", \"stops\": [\"Canberra\"]}"}
+{"prompt": "Take me from Seattle to San Diego, stopping at Portland, San Francisco, and Los Angeles.", "completion": "{\"start\": \"Seattle\", \"end\": \"San Diego\", \"stops\": [\"Portland\", \"San Francisco\", \"Los Angeles\"]}"}
+{"prompt": "Plan a journey from Berlin to Munich with stops in Leipzig, Nuremberg, and Augsburg.", "completion": "{\"start\": \"Berlin\", \"end\": \"Munich\", \"stops\": [\"Leipzig\", \"Nuremberg\", \"Augsburg\"]}"}
+{"prompt": "I’m going from Toronto to Vancouver, visiting Calgary, Banff, and Jasper.", "completion": "{\"start\": \"Toronto\", \"end\": \"Vancouver\", \"stops\": [\"Calgary\", \"Banff\", \"Jasper\"]}"}
+{"prompt": "I need a route from Chicago to Miami via Atlanta and Orlando.", "completion": "{\"start\": \"Chicago\", \"end\": \"Miami\", \"stops\": [\"Atlanta\", \"Orlando\"]}"}
+{"prompt": "Arrange a trip from Madrid to Barcelona, passing through Valencia and Zaragoza.", "completion": "{\"start\": \"Madrid\", \"end\": \"Barcelona\", \"stops\": [\"Valencia\", \"Zaragoza\"]}"}
+{"prompt": "Drive from Denver to Las Vegas with a stop in Salt Lake City.", "completion": "{\"start\": \"Denver\", \"end\": \"Las Vegas\", \"stops\": [\"Salt Lake City\"]}"}
+{"prompt": "Travel from Hobbiton to Mordor, stopping at Rivendell and Minas Tirith.", "completion": "{\"start\": \"Hobbiton\", \"end\": \"Mordor\", \"stops\": [\"Rivendell\", \"Minas Tirith\"]}"}
+{"prompt": "I need an itinerary from Atlantis to El Dorado.", "completion": "{\"start\": \"Atlantis\", \"end\": \"El Dorado\", \"stops\": []}"}
+{"prompt": "Go from Narnia to Westeros with a stop in Middle-earth.", "completion": "{\"start\": \"Narnia\", \"end\": \"Westeros\", \"stops\": [\"Middle-earth\"]}"}
+{"prompt": "I want a trip from Paris to Rome via Milan, Florence, and Naples.", "completion": "{\"start\": \"Paris\", \"end\": \"Rome\", \"stops\": [\"Milan\", \"Florence\", \"Naples\"]}"}
+{"prompt": "Plan my travel from Beijing to Shanghai, stopping at Xi'an and Nanjing.", "completion": "{\"start\": \"Beijing\", \"end\": \"Shanghai\", \"stops\": [\"Xi'an\", \"Nanjing\"]}"}
+{"prompt": "I'm journeying from Cairo to Cape Town through Nairobi, Johannesburg, and Dar es Salaam.", "completion": "{\"start\": \"Cairo\", \"end\": \"Cape Town\", \"stops\": [\"Nairobi\", \"Johannesburg\", \"Dar es Salaam\"]}"}
+{"prompt": "Get me from home to work, stopping at the grocery store and bank.", "completion": "{\"start\": \"home\", \"end\": \"work\", \"stops\": [\"grocery store\", \"bank\"]}"}
+{"prompt": "Fly me from Los Angeles to New York.", "completion": "{\"start\": \"Los Angeles\", \"end\": \"New York\", \"stops\": []}"}
+{"prompt": "Arrange a train trip from Moscow to Vladivostok via Yekaterinburg, Novosibirsk, and Irkutsk.", "completion": "{\"start\": \"Moscow\", \"end\": \"Vladivostok\", \"stops\": [\"Yekaterinburg\", \"Novosibirsk\", \"Irkutsk\"]}"}
+{"prompt": "I’ll bike from Amsterdam to Brussels, stopping in Antwerp.", "completion": "{\"start\": \"Amsterdam\", \"end\": \"Brussels\", \"stops\": [\"Antwerp\"]}"}
+{"prompt": "Visit the Eiffel Tower, then head to the Louvre.", "completion": "{\"start\": \"Eiffel Tower\", \"end\": \"Louvre\", \"stops\": []}"}
+{"prompt": "Plan a trip from the Statue of Liberty to Times Square via Central Park.", "completion": "{\"start\": \"Statue of Liberty\", \"end\": \"Times Square\", \"stops\": [\"Central Park\"]}"}
+{"prompt": "Travel from the Great Wall of China to the Forbidden City.", "completion": "{\"start\": \"Great Wall of China\", \"end\": \"Forbidden City\", \"stops\": []}"}
+{"prompt": "From San Diego, I want to reach Seattle, stopping at San Francisco and Portland.", "completion": "{\"start\": \"San Diego\", \"end\": \"Seattle\", \"stops\": [\"San Francisco\", \"Portland\"]}"}
+{"prompt": "My trip starts in Istanbul and ends in Athens, passing through Sofia and Thessaloniki.", "completion": "{\"start\": \"Istanbul\", \"end\": \"Athens\", \"stops\": [\"Sofia\", \"Thessaloniki\"]}"}
+{"prompt": "I’m off to Kyoto from Tokyo, visiting Osaka and Nara.", "completion": "{\"start\": \"Tokyo\", \"end\": \"Kyoto\", \"stops\": [\"Osaka\", \"Nara\"]}"}
+{"prompt": "Head from Vancouver to Calgary, stopping at Banff and Lake Louise.", "completion": "{\"start\": \"Vancouver\", \"end\": \"Calgary\", \"stops\": [\"Banff\", \"Lake Louise\"]}"}
+{"prompt": "I need to go from Edinburgh to London. Stop in York and Cambridge.", "completion": "{\"start\": \"Edinburgh\", \"end\": \"London\", \"stops\": [\"York\", \"Cambridge\"]}"}
+{"prompt": "Plan a trip starting in Lisbon, ending in Madrid, via Seville and Granada.", "completion": "{\"start\": \"Lisbon\", \"end\": \"Madrid\", \"stops\": [\"Seville\", \"Granada\"]}"}
+{"prompt": "Road trip from Las Vegas to Salt Lake City, stopping at Grand Canyon and Zion National Park.", "completion": "{\"start\": \"Las Vegas\", \"end\": \"Salt Lake City\", \"stops\": [\"Grand Canyon\", \"Zion National Park\"]}"}
+{"prompt": "Go from Buenos Aires to Santiago, stopping at Mendoza.", "completion": "{\"start\": \"Buenos Aires\", \"end\": \"Santiago\", \"stops\": [\"Mendoza\"]}"}
+{"prompt": "Itinerary from Helsinki to Stockholm via Tallinn, please.", "completion": "{\"start\": \"Helsinki\", \"end\": \"Stockholm\", \"stops\": [\"Tallinn\"]}"}
+{"prompt": "Travel from Kuala Lumpur to Singapore, visiting Malacca.", "completion": "{\"start\": \"Kuala Lumpur\", \"end\": \"Singapore\", \"stops\": [\"Malacca\"]}"}
+{"prompt": "Route me from Zurich to Geneva via Bern and Lausanne.", "completion": "{\"start\": \"Zurich\", \"end\": \"Geneva\", \"stops\": [\"Bern\", \"Lausanne\"]}"}
+{"prompt": "Trip from Dublin to Cork with a stop in Waterford.", "completion": "{\"start\": \"Dublin\", \"end\": \"Cork\", \"stops\": [\"Waterford\"]}"}
+{"prompt": "I’m going from Prague to Vienna, stopping at Brno and Bratislava.", "completion": "{\"start\": \"Prague\", \"end\": \"Vienna\", \"stops\": [\"Brno\", \"Bratislava\"]}"}
+{"prompt": "Drive from San Diego to Seattle via Los Angeles, San Francisco, Portland, and Olympia.", "completion": "{\"start\": \"San Diego\", \"end\": \"Seattle\", \"stops\": [\"Los Angeles\", \"San Francisco\", \"Portland\", \"Olympia\"]}"}
+{"prompt": "Journey from Moscow to Beijing, stopping at Yekaterinburg, Novosibirsk, Irkutsk, and Ulaanbaatar.", "completion": "{\"start\": \"Moscow\", \"end\": \"Beijing\", \"stops\": [\"Yekaterinburg\", \"Novosibirsk\", \"Irkutsk\", \"Ulaanbaatar\"]}"}
+{"prompt": "Travel from Cairo to Johannesburg via Khartoum, Addis Ababa, Nairobi, and Dar es Salaam.", "completion": "{\"start\": \"Cairo\", \"end\": \"Johannesburg\", \"stops\": [\"Khartoum\", \"Addis Ababa\", \"Nairobi\", \"Dar es Salaam\"]}"}
+{"prompt": "Go from Sydney to Perth, stopping at Melbourne, Adelaide, and Alice Springs.", "completion": "{\"start\": \"Sydney\", \"end\": \"Perth\", \"stops\": [\"Melbourne\", \"Adelaide\", \"Alice Springs\"]}"}
+{"prompt": "I need to reach Rotterdam from Amsterdam.", "completion": "{\"start\": \"Amsterdam\", \"end\": \"Rotterdam\", \"stops\": []}"}
+{"prompt": "Fly from Dubai to Abu Dhabi.", "completion": "{\"start\": \"Dubai\", \"end\": \"Abu Dhabi\", \"stops\": []}"}
+{"prompt": "I’m traveling from Seoul to Busan.", "completion": "{\"start\": \"Seoul\", \"end\": \"Busan\", \"stops\": []}"}
+{"prompt": "Take me from Barcelona to Valencia via Tarragona.", "completion": "{\"start\": \"Barcelona\", \"end\": \"Valencia\", \"stops\": [\"Tarragona\"]}"}
+{"prompt": "Itinerary from Oslo to Bergen, stopping in Stavanger.", "completion": "{\"start\": \"Oslo\", \"end\": \"Bergen\", \"stops\": [\"Stavanger\"]}"}
+{"prompt": "Go from Mumbai to Delhi, visiting Agra.", "completion": "{\"start\": \"Mumbai\", \"end\": \"Delhi\", \"stops\": [\"Agra\"]}"}
+{"prompt": "Travel from UC Berkeley to Stanford University.", "completion": "{\"start\": \"UC Berkeley\", \"end\": \"Stanford University\", \"stops\": []}"}
+{"prompt": "Plan a trip from Golden Gate Bridge to Alcatraz Island.", "completion": "{\"start\": \"Golden Gate Bridge\", \"end\": \"Alcatraz Island\", \"stops\": []}"}
+{"prompt": "I’m off from Empire State Building to Statue of Liberty via Times Square.", "completion": "{\"start\": \"Empire State Building\", \"end\": \"Statue of Liberty\", \"stops\": [\"Times Square\"]}"}
+{"prompt": "Go from France to Germany, stopping at Belgium and Netherlands.", "completion": "{\"start\": \"France\", \"end\": \"Germany\", \"stops\": [\"Belgium\", \"Netherlands\"]}"}
+{"prompt": "Trip from Brazil to Argentina via Uruguay.", "completion": "{\"start\": \"Brazil\", \"end\": \"Argentina\", \"stops\": [\"Uruguay\"]}"}
+{"prompt": "Travel from Canada to Mexico, visiting the USA.", "completion": "{\"start\": \"Canada\", \"end\": \"Mexico\", \"stops\": [\"USA\"]}"}
+{"prompt": "Fly from Earth to Mars.", "completion": "{\"start\": \"Earth\", \"end\": \"Mars\", \"stops\": []}"}
+{"prompt": "Journey from the Shire to Rivendell via Bree and Weathertop.", "completion": "{\"start\": \"Shire\", \"end\": \"Rivendell\", \"stops\": [\"Bree\", \"Weathertop\"]}"}
+{"prompt": "Go from Gotham City to Metropolis, stopping at Central City.", "completion": "{\"start\": \"Gotham City\", \"end\": \"Metropolis\", \"stops\": [\"Central City\"]}"}
+{"prompt": "Route from point A to point B via point C and point D.", "completion": "{\"start\": \"point A\", \"end\": \"point B\", \"stops\": [\"point C\", \"point D\"]}"}
+{"prompt": "Itinerary from city X to city Y, stopping at city Z.", "completion": "{\"start\": \"city X\", \"end\": \"city Y\", \"stops\": [\"city Z\"]}"}
+{"prompt": "Drive from Los Angeles to San Francisco via Santa Monica and Big Sur.", "completion": "{\"start\": \"Los Angeles\", \"end\": \"San Francisco\", \"stops\": [\"Santa Monica\", \"Big Sur\"]}"}
+{"prompt": "Travel from Washington, D.C. to Philadelphia, stopping in Baltimore.", "completion": "{\"start\": \"Washington, D.C.\", \"end\": \"Philadelphia\", \"stops\": [\"Baltimore\"]}"}
+{"prompt": "Go from St. Petersburg to Moscow.", "completion": "{\"start\": \"St. Petersburg\", \"end\": \"Moscow\", \"stops\": []}"}
+{"prompt": "I need to get from O’Hare Airport to Midway Airport.", "completion": "{\"start\": \"O’Hare Airport\", \"end\": \"Midway Airport\", \"stops\": []}"}
+{"prompt": "Road trip from Miami to Key West via Key Largo, Islamorada, and Marathon.", "completion": "{\"start\": \"Miami\", \"end\": \"Key West\", \"stops\": [\"Key Largo\", \"Islamorada\", \"Marathon\"]}"}
+{"prompt": "Journey from Edinburgh to Inverness, stopping at Stirling, Perth, and Pitlochry.", "completion": "{\"start\": \"Edinburgh\", \"end\": \"Inverness\", \"stops\": [\"Stirling\", \"Perth\", \"Pitlochry\"]}"}
+{"prompt": "Travel from Lisbon to Porto via Coimbra and Aveiro.", "completion": "{\"start\": \"Lisbon\", \"end\": \"Porto\", \"stops\": [\"Coimbra\", \"Aveiro\"]}"}
+{"prompt": "Visit Yellowstone and Grand Teton on my way from Denver to Jackson Hole.", "completion": "{\"start\": \"Denver\", \"end\": \"Jackson Hole\", \"stops\": [\"Yellowstone\", \"Grand Teton\"]}"}
+{"prompt": "Trip from Rome to Naples, stopping at Pompeii and Sorrento.", "completion": "{\"start\": \"Rome\", \"end\": \"Naples\", \"stops\": [\"Pompeii\", \"Sorrento\"]}"}
+{"prompt": "Get me from Chicago to Milwaukee.", "completion": "{\"start\": \"Chicago\", \"end\": \"Milwaukee\", \"stops\": []}"}
+{"prompt": "Fly directly from Sydney to Auckland.", "completion": "{\"start\": \"Sydney\", \"end\": \"Auckland\", \"stops\": []}"}
+{"prompt": "Take the train from Brussels to Amsterdam.", "completion": "{\"start\": \"Brussels\", \"end\": \"Amsterdam\", \"stops\": []}"}
+{"prompt": "Go from Helsinki to Tallinn via Suomenlinna fortress.", "completion": "{\"start\": \"Helsinki\", \"end\": \"Tallinn\", \"stops\": [\"Suomenlinna fortress\"]}"}
+{"prompt": "Itinerary from Budapest to Vienna, stopping in Bratislava.", "completion": "{\"start\": \"Budapest\", \"end\": \"Vienna\", \"stops\": [\"Bratislava\"]}"}
+{"prompt": "Travel from Zurich to Lucerne via Zug and Arth-Goldau.", "completion": "{\"start\": \"Zurich\", \"end\": \"Lucerne\", \"stops\": [\"Zug\", \"Arth-Goldau\"]}"}
+{"prompt": "Route from north side to south side via city center and riverfront.", "completion": "{\"start\": \"north side\", \"end\": \"south side\", \"stops\": [\"city center\", \"riverfront\"]}"}
+{"prompt": "Trip from mountains to beach, stopping at forest and lake.", "completion": "{\"start\": \"mountains\", \"end\": \"beach\", \"stops\": [\"forest\", \"lake\"]}"}
+{"prompt": "Fly from New York to London with a layover in Paris.", "completion": "{\"start\": \"New York\", \"end\": \"London\", \"stops\": [\"Paris\"]}"}
+{"prompt": "Journey from Tokyo to Sydney via Hong Kong and Singapore.", "completion": "{\"start\": \"Tokyo\", \"end\": \"Sydney\", \"stops\": [\"Hong Kong\", \"Singapore\"]}"}
+{"prompt": "Travel from Los Angeles to Dubai, stopping at New York and London.", "completion": "{\"start\": \"Los Angeles\", \"end\": \"Dubai\", \"stops\": [\"New York\", \"London\"]}"}
+{"prompt": "Go from Seattle to Portland via Tacoma.", "completion": "{\"start\": \"Seattle\", \"end\": \"Portland\", \"stops\": [\"Tacoma\"]}"}
+{"prompt": "Itinerary from Dallas to Houston, stopping in Austin.", "completion": "{\"start\": \"Dallas\", \"end\": \"Houston\", \"stops\": [\"Austin\"]}"}
+{"prompt": "Travel from San Jose to San Diego via Los Angeles and Orange County.", "completion": "{\"start\": \"San Jose\", \"end\": \"San Diego\", \"stops\": [\"Los Angeles\", \"Orange County\"]}"}
+{"prompt": "Visit the Colosseum, then go to the Vatican.", "completion": "{\"start\": \"Colosseum\", \"end\": \"Vatican\", \"stops\": []}"}
+{"prompt": "Trip to Grand Canyon from Las Vegas via Hoover Dam.", "completion": "{\"start\": \"Las Vegas\", \"end\": \"Grand Canyon\", \"stops\": [\"Hoover Dam\"]}"}
+{"prompt": "Travel to Machu Picchu from Cusco, stopping at Ollantaytambo.", "completion": "{\"start\": \"Cusco\", \"end\": \"Machu Picchu\", \"stops\": [\"Ollantaytambo\"]}"}
+{"prompt": "Get from hotel to airport, stopping at train station.", "completion": "{\"start\": \"hotel\", \"end\": \"airport\", \"stops\": [\"train station\"]}"}
+{"prompt": "Trip from ferry terminal to city center via tourist info center.", "completion": "{\"start\": \"ferry terminal\", \"end\": \"city center\", \"stops\": [\"tourist info center\"]}"}
+{"prompt": "Go from bus station to university campus via library and cafeteria.", "completion": "{\"start\": \"bus station\", \"end\": \"university campus\", \"stops\": [\"library\", \"cafeteria\"]}"}
+{"prompt": "Travel from Rebel Base to Death Star, stopping at Tatooine and Alderaan.", "completion": "{\"start\": \"Rebel Base\", \"end\": \"Death Star\", \"stops\": [\"Tatooine\", \"Alderaan\"]}"}
+{"prompt": "Journey from Winterfell to King’s Landing via Wall and Riverrun.", "completion": "{\"start\": \"Winterfell\", \"end\": \"King’s Landing\", \"stops\": [\"Wall\", \"Riverrun\"]}"}
+{"prompt": "Go from Shire to Mount Doom, stopping at Rivendell, Moria, and Rohan.", "completion": "{\"start\": \"Shire\", \"end\": \"Mount Doom\", \"stops\": [\"Rivendell\", \"Moria\", \"Rohan\"]}"}
+{"prompt": "I need to get from airport to hotel in city center.", "completion": "{\"start\": \"airport\", \"end\": \"hotel in city center\", \"stops\": []}"}
+{"prompt": "Itinerary from train station to museum via park.", "completion": "{\"start\": \"train station\", \"end\": \"museum\", \"stops\": [\"park\"]}"}
+{"prompt": "Travel from beach to mountains, stopping at forest and lake.", "completion": "{\"start\": \"beach\", \"end\": \"mountains\", \"stops\": [\"forest\", \"lake\"]}"}
+{"prompt": "Go from point A to point B via point C.", "completion": "{\"start\": \"point A\", \"end\": \"point B\", \"stops\": [\"point C\"]}"}
+{"prompt": "Trip from city X to city Y, visiting city Z and city W.", "completion": "{\"start\": \"city X\", \"end\": \"city Y\", \"stops\": [\"city Z\", \"city W\"]}"}
+{"prompt": "Travel from location 1 to location 2 via location 3, 4, and 5.", "completion": "{\"start\": \"location 1\", \"end\": \"location 2\", \"stops\": [\"location 3\", \"location 4\", \"location 5\"]}"}
+{"prompt": "Get me from my house to the office via coffee shop and post office.", "completion": "{\"start\": \"my house\", \"end\": \"office\", \"stops\": [\"coffee shop\", \"post office\"]}"}

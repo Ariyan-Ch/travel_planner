@@ -1,0 +1,11 @@
+.env
+venv/
+t5_tokenizer_only/
+t5_quantized.pt
+.venv/
+
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+__pycache__/*
